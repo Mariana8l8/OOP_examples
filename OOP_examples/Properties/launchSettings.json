@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lab2_patterns": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\temp\\commands.jsonl\r\n"
+    }
+  }
+}
